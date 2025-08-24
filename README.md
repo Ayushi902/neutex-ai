@@ -1,5 +1,5 @@
-# neutex-ai
-The Proactive Human-AI Companion
+Neutex-AI: Your Proactive Human-AI Companion 🤖
+Neutex-AI is an AI-powered personal assistant designed to simplify, automate, and personalize your daily tasks. Built as a multifunctional companion, this project aims to overcome the limitations of existing reactive assistants by providing a proactive, deeply personalized, and unified experience. Our goal is to enhance user productivity, streamline workflows, and make technology more intuitive.
 
 ## 📌 About
 NEUTEX-AI is an intelligent, context-aware personal assistant that automates tasks, provides proactive reminders, and learns from user habits to enhance productivity and well-being.
